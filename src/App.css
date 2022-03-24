@@ -2,3 +2,32 @@
   font-family: 'Mochiy Pop P One', sans-serif;
   font-family: 'Open Sans', sans-serif;
 }
+.icon{
+  /* background-color:'darkslategray'; */
+  transform: scale(2.5);
+}
+.input-box{
+  /* padding: 0; */
+  /* height: 40px; */
+  width:287px
+}
+.input-box input{
+  border-style: none;
+  outline: none;
+  height: 40px;
+  width:211.5px
+}
+.input-box button{
+  height: 42.5px;
+  background-color: #baa049;
+  box-shadow: none;
+  color: white;
+  border-style: none;
+  /* padding: 2px; */
+}
+.footer-logo{
+    font-weight: 400;
+    font-size: 24px;
+
+    /* color: black; */
+}
